@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="520" viewBox="0 0 1100 520" role="img" aria-labelledby="t d">
+  <title id="t">Architecture prévisionnelle Wazuh</title><desc id="d">Deux agents envoient leurs journaux à un serveur Wazuh dans un réseau de laboratoire isolé.</desc>
+  <rect width="1100" height="520" rx="24" fill="#111827"/>
+  <text x="55" y="65" fill="#f9fafb" font-family="Segoe UI,Arial" font-size="34" font-weight="700">Wazuh SIEM Lab — architecture prévue</text>
+  <rect x="405" y="135" width="290" height="220" rx="22" fill="#0369a1"/>
+  <text x="550" y="195" text-anchor="middle" fill="white" font-family="Segoe UI,Arial" font-size="28" font-weight="700">WAZUH-LAB</text>
+  <text x="550" y="245" text-anchor="middle" fill="#e0f2fe" font-family="Segoe UI,Arial" font-size="20">Manager • Indexer</text>
+  <text x="550" y="282" text-anchor="middle" fill="#e0f2fe" font-family="Segoe UI,Arial" font-size="20">Dashboard</text>
+  <text x="550" y="320" text-anchor="middle" fill="#bae6fd" font-family="Segoe UI,Arial" font-size="17">TODO : valider le déploiement</text>
+  <rect x="65" y="182" width="250" height="140" rx="18" fill="#f8fafc"/><text x="190" y="240" text-anchor="middle" fill="#0f172a" font-family="Segoe UI,Arial" font-size="23" font-weight="700">AGENT-WIN</text><text x="190" y="280" text-anchor="middle" fill="#475569" font-family="Segoe UI,Arial" font-size="17">Journaux Windows</text>
+  <rect x="785" y="182" width="250" height="140" rx="18" fill="#f8fafc"/><text x="910" y="240" text-anchor="middle" fill="#0f172a" font-family="Segoe UI,Arial" font-size="23" font-weight="700">AGENT-LINUX</text><text x="910" y="280" text-anchor="middle" fill="#475569" font-family="Segoe UI,Arial" font-size="17">Journaux Linux</text>
+  <g stroke="#38bdf8" stroke-width="6"><path d="M315 252h90"/><path d="M695 252h90"/></g>
+  <rect x="210" y="420" width="680" height="52" rx="26" fill="#164e63"/><text x="550" y="453" text-anchor="middle" fill="#cffafe" font-family="Segoe UI,Arial" font-size="19">Réseau de laboratoire isolé • accès d'administration limité</text>
+</svg>
+
+
